@@ -4,15 +4,20 @@ Team Members:Yasashwini (2620030206) Janani (2620040056)
 
 Supervisor Name:Rakesh.K
 
-Abstract:The Music Playlist & Listening-Stats Manager is a Java-based application that helps users manage songs and analyze listening information. It allows users to add, view, and search songs and calculate statistics such as total songs, listening time, and longest song. The project demonstrates Java concepts such as classes, objects, ArrayList, methods, loops, and user input.
+Abstract:The Music Playlist & Listening-Stats Manager is a Java application for managing music collections and tracking listening habits. Users can add songs, play tracks, and view stats like total listening time and most-played songs. It uses core Java concepts, including Object-Oriented Programming, ArrayList, and interactive console input.
 
 Setup & Execution Instructions:
 
-Install JDK 21 or later.
+Install JDK 21 
+
 Create MusicPlaylistManager.java.
+
 Add the Java source code.
+
 Compile: javac MusicPlaylistManager.java
+
 Run: java MusicPlaylistManager
+
 Select options from the menu and test the features.
 
 Current Phase Status: Phase 1 - Repository Setup and Initial Review (Complete)
