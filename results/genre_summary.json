@@ -1,0 +1,11 @@
+JSON
+{
+  "total_genres": 5,
+  "breakdown": [
+    { "genre": "Pop", "percentage": 40.0, "track_count": 60 },
+    { "genre": "R&B", "percentage": 25.0, "track_count": 38 },
+    { "genre": "Rock", "percentage": 15.0, "track_count": 22 },
+    { "genre": "Hip-Hop", "percentage": 12.0, "track_count": 18 },
+    { "genre": "Indie", "percentage": 8.0, "track_count": 12 }
+  ]
+}
